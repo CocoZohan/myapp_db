@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">myapp_db</string>
+    <string-array name="buttons">
+            <item>Go to Url #1</item>
+            <item>Go to Url #2</item>
+            <item>Go to Url #3</item>
+            <item>Set Urls</item>
+    </string-array>
+    <string-array name="descr">
+        <item>Click if you want to go to Url #1</item>
+        <item>Click if you want to go to Url #2</item>
+        <item>Click if you want to go to Url #3</item>
+        <item>Click to set/change Url addresses</item>
+    </string-array>
+    <string name="begin">begin</string>
+    <string name="end">end</string>
+    <string name="tvurl1">Url #1</string>
+    <string name="tvurl2">Url #2</string>
+    <string name="tvurl3">Url #3</string>
+    <string name="btnsave">Save</string>
+    <string name="btncancel">Cancel</string>
+</resources>
